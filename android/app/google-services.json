@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006117779198",
+    "project_id": "fir-davefurn",
+    "storage_bucket": "fir-davefurn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006117779198:android:7ddc7595404ee77bf317af",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006117779198-jb780onlce5jb5uide8m89s6gjnspftp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDKmhO9D7QxUu8xuC4IJO8L6Dy9zVBOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006117779198-jb780onlce5jb5uide8m89s6gjnspftp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
